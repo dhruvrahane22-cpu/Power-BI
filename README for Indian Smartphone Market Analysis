@@ -1,0 +1,21 @@
+📱 Indian Smartphone Market Analysis
+Overview
+This repository contains an end-to-end Business Intelligence solution analyzing the hyper-competitive Indian smartphone market. Built entirely in Power BI, this interactive dashboard transforms raw industry data into an executive-ready interface, empowering stakeholders to make data-driven decisions regarding pricing strategies and competitive positioning.
+
+🚀 Dashboard Features & Capabilities
+Dynamic Financial KPIs: Features engineered measures to calculate and monitor critical business metrics, including overall sales volumes, revenue growth, and vendor profit margins across diverse market segments.
+
+Market Share & Brand Tracking: High-impact visualizations illustrate brand performance over time, tracking shifting consumer purchasing preferences and market share distribution among top competitors.
+
+Geographical Sales Trends: Highlights emerging regional sales trends to identify high-growth opportunities and geographic market penetration.
+
+Strategic Narrative: Designed with a clear visual hierarchy that translates technical data points into actionable business intelligence for executive stakeholders.
+
+🛠️ Data Architecture & Tech Stack
+Core Technology: Power BI Desktop
+
+Data Transformation (ETL): Utilized Power Query (M Code) to rigorously clean, structure, and standardize complex raw market datasets.
+
+Data Modeling: Built a robust relational data model that ensures instantaneous cross-filtering, dynamic drill-downs, and seamless dashboard interactions for the end user.
+
+Domain Skills: Data Visualization, Market Analytics, Business Intelligence.
